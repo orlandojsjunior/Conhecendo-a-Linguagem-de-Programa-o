@@ -1,6 +1,6 @@
-Formação Python Developer - DIO
+#Formação Python Developer
 
-Conhecendo a Linguagem de Progamação
-  aulas de 1 a 5
+##Conhecendo a Linguagem de Progamação
+    * aulas de 1 a 5
 
 
