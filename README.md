@@ -10,7 +10,7 @@ Formação Python Developer
 
 2 - Tipos de Operadores com Python
 
-    * Operadores aritmeticos
+    * Operadores aritméticos
     * Operadores de comparação
     * Operadores de atribuição
     * Operadores lógicos
