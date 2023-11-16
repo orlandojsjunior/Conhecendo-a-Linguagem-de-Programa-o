@@ -1,21 +1,21 @@
 Formação Python Developer
 
-1 - Conhecendo a Linguagem de Progamação
+* Conhecendo a Linguagem de Progamação
 
-    * Tipos de Dados
-    * Modo interativo
-    * Variáveis e constantes
-    * Conversão de tipos
-    * Funções de entrada e saída
+    1 Tipos de Dados
+    2 Modo interativo
+    3 Variáveis e constantes
+    4 Conversão de tipos
+    5 Funções de entrada e saída
 
-2 - Tipos de Operadores com Python
+* Tipos de Operadores com Python
 
-    * Operadores aritméticos
-    * Operadores de comparação
-    * Operadores de atribuição
-    * Operadores lógicos
-    * Operadores de identidade
-    * Operadores de associação
+    6 Operadores aritméticos
+    7 Operadores de comparação
+    8 Operadores de atribuição
+    9 Operadores lógicos
+   10 Operadores de identidade
+   11 Operadores de associação
 
 
 
