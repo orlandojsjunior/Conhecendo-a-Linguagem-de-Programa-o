@@ -8,7 +8,7 @@ Formação Python Developer
     4 Conversão de tipos
     5 Funções de entrada e saída
 
-* Tipos de Operadores com Python
+* Tipos de Operadores
 
     6 Operadores aritméticos
     7 Operadores de comparação
