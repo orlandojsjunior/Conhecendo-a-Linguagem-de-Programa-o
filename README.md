@@ -25,6 +25,11 @@ Formação Python Developer
 
 * Manipulando Strings com Python
 
+    Conhecendo métodos úteis da classe string
+    Interpolação de variáveis
+    Fatiamento de string
+    String múltiplas linhas
+
 
 
 
