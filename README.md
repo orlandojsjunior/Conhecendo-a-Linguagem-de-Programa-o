@@ -23,6 +23,10 @@ Formação Python Developer
     13 Estruturas condicionais
     14 Estruturas de Repetição
 
+* Manipulando Strings com Python
+
+
+
 
 
 
